@@ -1,0 +1,27 @@
+<div class="u-pull-right">
+	<button ng-click="showModal()">Create Application</button>
+</div>
+<div class="u-cf"></div>
+
+<ul id="applications">
+	<li class="card" ng-repeat="application in applications">
+		<div class="card-title">
+			<h3>{{application.name}}</h3>
+			<div class="u-cf"></div>
+		</div>
+		<div class="card-body">
+			<p>Description : {{application.description}}</p>
+			<br> Start Date: {{application.startDate |date }}
+			<br> End Date: {{application.endDate | date}}
+		</div>
+		<div class="card-footer">
+			<div class="u-pull-right">
+				<button>Apply</button>
+			</div>
+			<div class="u-cf"></div>
+		</div>
+	</li>
+</ul>
+<modal title="Add Application">
+	<add-application></add-application>
+</modal>

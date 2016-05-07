@@ -1,0 +1,30 @@
+<div class="u-pull-right">
+    <button>Create Team</button>
+</div>
+<div class="u-cf"></div>
+
+
+<ul id="sports">
+    <li class="card" ng-repeat="team in teams">
+        <div class="card-title">
+            <h3>{{team.name}}</h3>
+            <div class="u-cf"></div>
+        </div>
+        <div class="card-body">
+            <p>Size: {{team.roster.length}}</p>
+            <p>Roster</p>
+            <ul>
+                <li ng-repeat="person in team.roster">
+                    {{person}}
+                </li>
+            </ul>
+        </div>
+        <div class="card-footer">
+            <div class="u-pull-right">
+                <button>View Roster</button>
+                <button>Apply</button>
+            </div>
+            <div class="u-cf"></div>
+        </div>
+    </li>
+</ul>

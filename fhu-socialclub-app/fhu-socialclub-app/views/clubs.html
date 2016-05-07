@@ -1,0 +1,24 @@
+<div class="u-pull-right">
+    <button ng-click="createClub()">Create Club</button>
+</div>
+<div class="u-cf"></div>
+
+<ul id="clubs">
+    <li class="card" ng-repeat="club in clubs">
+        <div class="card-title">
+            <h3>{{club.name | uppercase}} <img ng-src="{{club.emblemImageUrl}}" class="emblem u-pull-right"></h3>
+            <div class="u-cf"></div>
+        </div>
+        <div class="card-body">
+            <p>Description : {{club.description}}</p>
+            <p></p>
+        </div>
+        <div class="card-footer">
+            <div class="u-pull-right">
+                <button>View Roster</button>
+                <button>Apply</button>
+            </div>
+            <div class="u-cf"></div>
+        </div>
+    </li>
+</ul>

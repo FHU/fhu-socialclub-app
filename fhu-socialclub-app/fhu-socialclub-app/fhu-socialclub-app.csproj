@@ -75,19 +75,32 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\normalize.css" />
     <Content Include="css\site.css" />
+    <Content Include="css\skeleton.css" />
+    <Content Include="img\logo.jpg" />
     <Content Include="index.html" />
     <Content Include="js\app.js" />
+    <Content Include="js\controllers\app-controller.js" />
+    <Content Include="js\controllers\applications-controller.js" />
+    <Content Include="js\controllers\clubs-controller.js" />
+    <Content Include="js\controllers\dashboard-controller.js" />
+    <Content Include="js\controllers\events-controller.js" />
+    <Content Include="js\controllers\login-controller.js" />
+    <Content Include="js\controllers\sports-controller.js" />
     <Content Include="js\routes.js" />
+    <Content Include="views\applications.html" />
+    <Content Include="views\clubs.html" />
     <Content Include="views\dashboard.html" />
+    <Content Include="views\events.html" />
+    <Content Include="views\login.html" />
+    <Content Include="views\sports.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="img\" />
-    <Folder Include="js\controllers\" />
     <Folder Include="js\directives\" />
     <Folder Include="js\services\" />
     <Folder Include="templates\" />
