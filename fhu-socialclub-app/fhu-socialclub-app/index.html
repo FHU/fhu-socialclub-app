@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="/">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link href="css/site.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/routes.js"></script>
+    <script src="js/controllers/app-controller.js"></script>
+</head>
+<body ng-app="FHUSocial">
+    <nav>
+        <div class="logo u-pull-left"><img src="#" height=60px alt=""></div>
+        <div class="sections u-pull-left">
+            <a href="/dashboard">Dashboard</a>
+            <a href="/clubs">Clubs</a>
+            <a href="/sports">Sports</a>
+            <a href="/applications">Applications</a>
+            <a href="/events">Events</a>
+        </div>
+        <div class="user-options u-pull-right">
+            <a href="/messages">Messages</a>
+            <a href="/logout">Log Out</a>
+        </div>
+        <div class="u-pull-right mobile-menu">
+            <i class="fa fa-cog"></i>
+        </div>
+        <div class="u-cf"></div>
+    </nav>
+    <div id="content">
+        <div class="input-group u-pull-left">
+            <input type="text" placeholder="Search Username, Club, Application...">
+            <button class="input-submit"><i class="fa fa-search"></i></button>
+        </div>
+        <ng-view></ng-view>
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+</body>
+</html>
