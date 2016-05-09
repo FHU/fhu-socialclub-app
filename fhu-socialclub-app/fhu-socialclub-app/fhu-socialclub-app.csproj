@@ -129,7 +129,21 @@
     <Content Include="js\controllers\events-controller.js" />
     <Content Include="js\controllers\login-controller.js" />
     <Content Include="js\controllers\sports-controller.js" />
+    <Content Include="js\directives\modal.js" />
     <Content Include="js\routes.js" />
+    <Content Include="js\services\applications-service.js" />
+    <Content Include="js\services\authentication-service.js" />
+    <Content Include="js\services\authInterceptor-service.js" />
+    <Content Include="js\services\clubs-service.js" />
+    <Content Include="js\services\events-service.js" />
+    <Content Include="js\services\messages-service.js" />
+    <Content Include="js\services\teams-service.js" />
+    <Content Include="js\services\users-service.js" />
+    <Content Include="templates\add-application.html" />
+    <Content Include="templates\add-club.html" />
+    <Content Include="templates\add-event.html" />
+    <Content Include="templates\add-team.html" />
+    <Content Include="templates\modal.html" />
     <Content Include="views\applications.html" />
     <Content Include="views\clubs.html" />
     <Content Include="views\dashboard.html" />
@@ -161,6 +175,14 @@
     <Compile Include="Migrations\201605091217356_InitialModelCreation1.Designer.cs">
       <DependentUpon>201605091217356_InitialModelCreation1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201605091257344_InitialModelCreation2.cs" />
+    <Compile Include="Migrations\201605091257344_InitialModelCreation2.Designer.cs">
+      <DependentUpon>201605091257344_InitialModelCreation2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605091442458_InitialModelCreation3.cs" />
+    <Compile Include="Migrations\201605091442458_InitialModelCreation3.Designer.cs">
+      <DependentUpon>201605091442458_InitialModelCreation3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Answer.cs" />
     <Compile Include="Models\AnswerResponse.cs" />
@@ -189,9 +211,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="js\directives\" />
-    <Folder Include="js\services\" />
-    <Folder Include="templates\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201605090724545_InitialModelCreation.resx">
@@ -199,6 +218,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201605091217356_InitialModelCreation1.resx">
       <DependentUpon>201605091217356_InitialModelCreation1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605091257344_InitialModelCreation2.resx">
+      <DependentUpon>201605091257344_InitialModelCreation2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605091442458_InitialModelCreation3.resx">
+      <DependentUpon>201605091442458_InitialModelCreation3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

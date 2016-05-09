@@ -9,4 +9,14 @@
         "firstName": "Jesse",
         "lastName": "Lloyd"
     }
+
+    $scope.showModal = function () {
+        console.log("Showing modal...");
+        $scope.$broadcast("show-modal");
+    }
+
+    $scope.closeModal = function () {
+        console.log("Closing modal...");
+        $scope.$broadcast("close-modal");
+    }
 }]);

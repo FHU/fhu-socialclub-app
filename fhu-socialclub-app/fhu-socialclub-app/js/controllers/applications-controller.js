@@ -1,4 +1,4 @@
-﻿app.controller('ApplicationsController', ['$scope', function ($scope) {
+﻿app.controller('ApplicationsController', ['$scope', 'ApplicationsService', function ($scope, ApplicationsService) {
     $scope.applications = [
         {
             "id": 1,
@@ -24,5 +24,21 @@
             "authorId": 1,
             "isDenied": false
         }
-    ]
+    ];
+
+    $scope.createApplication = function (application) {
+        var application = {
+            "Name": "Application Test",
+            "Description": "Testing It",
+            "IsApproved": true,
+            "AuthorId" : 1,
+            "StartDate": Date.now,
+            "EndDate" : Date.now
+        };
+
+        ApplicationsService.createApplication(application).then(function (response) {
+            $scope.applications.push(response);
+            $scope.closeModal();
+        });
+    }
 }])

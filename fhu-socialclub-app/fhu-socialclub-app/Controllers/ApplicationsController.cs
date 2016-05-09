@@ -11,6 +11,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using cds_api.Models;
 using fhu_socialclub_app.Models;
+using System.Diagnostics;
 
 namespace fhu_socialclub_app.Controllers
 {
@@ -76,6 +77,12 @@ namespace fhu_socialclub_app.Controllers
         [ResponseType(typeof(Application))]
         public async Task<IHttpActionResult> PostApplication(Application application)
         {
+            Debug.WriteLine("Inside of the Applications Controller!");
+
+            int newId = await db.Applications.MaxAsync(a => a.Id);
+
+            application.Id = newId += 1;
+
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
