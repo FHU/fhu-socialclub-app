@@ -1,20 +1,48 @@
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\csc.exe
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\vbc.exe
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\VBCSCompiler.exe
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.dll.config
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.pdb
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.csprojResolveAssemblyReference.cache
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.dll
-C:\Users\tylerestes\Documents\GitHub\fhu-socialclub-app\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\ApplicationInsights.config
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\csc.exe
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\vbc.exe
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\VBCSCompiler.exe
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.dll.config
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\fhu-socialclub-app.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.Web.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.ApplicationInsights.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Newtonsoft.Json.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Net.Http.Formatting.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Web.Http.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Web.Http.WebHost.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.Web.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.ApplicationInsights.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\Newtonsoft.Json.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Net.Http.Formatting.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Web.Http.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\System.Web.Http.WebHost.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\EntityFramework.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\EntityFramework.SqlServer.dll
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\EntityFramework.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\bin\EntityFramework.SqlServer.xml
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu_socialclub_app.Migrations.InitialModelCreation.resources
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu-socialclub-app.csproj.GenerateResource.Cache
+c:\users\jesse\documents\visual studio 2015\Projects\fhu-socialclub-app\fhu-socialclub-app\obj\Debug\fhu_socialclub_app.Migrations.InitialModelCreation1.resources
